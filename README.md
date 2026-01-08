@@ -25,7 +25,3 @@ This project is useful for:
 1. Python beginners
 2. College mini projects
 3. Practicing date and time concepts.
-
-
-
-If you want this short, for college project, or for GitHub, tell me—I’ll customize it for you, Sweety 😊
